@@ -1,0 +1,19 @@
+# basic .gitignore file for electron project 
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore the dist directory
+dist/
+
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore the .idea directory
+.idea/
+
+# Ignore the .DS_Store file
+.DS_Store
+
+# Ignore the .env file
+.env

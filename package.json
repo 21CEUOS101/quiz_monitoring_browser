@@ -1,0 +1,17 @@
+{
+    "name": "Proctoring System",
+    "version": "1.0",
+    "author": "BISAG-N Intenrship Team",
+    "main": "index.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "axios": "^1.7.2",
+        "electron": "^30.0.8",
+        "usb-detection": "^4.14.2"
+    },
+    "devDependencies": {
+        "electron-rebuild": "^3.2.9"
+    }
+}
