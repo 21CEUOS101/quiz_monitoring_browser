@@ -123,3 +123,2604 @@
 [2024-05-29T06:55:15.489Z] Switching applications is disabled.
 [2024-05-29T06:55:17.896Z] Error fetching processes: Error: Command failed: ps aux
 
+[2024-05-31T09:35:56.618Z] Notes terminated successfully.
+[2024-05-31T09:35:56.934Z] Student joined in with {"studentID":"452u4st9u","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T09:35:58.026Z] Switching applications is disabled.
+[2024-05-31T09:36:32.654Z] Student joined in with {"studentID":"nq83lfaqr","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T09:36:34.086Z] Switching applications is disabled.
+[2024-05-31T09:37:19.773Z] USB detection initialized.
+[2024-05-31T09:37:20.480Z] Student joined in with {"studentID":"hbl0tjacg","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T09:37:24.778Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:37:24.792Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:37:24.793Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:37:24.948Z] Bluetooth devices detected: Ashish’s iPad, DESKTOP-AQQJBD0, DIZO Buds Z, Keyboard K380, OnePlus Bullets Wireless Z2, Rockerz 450
+[2024-05-31T09:37:24.949Z] Bluetooth devices are not allowed.
+[2024-05-31T09:37:42.419Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:37:42.444Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:37:42.444Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:37:42.445Z] Audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:37:42.445Z] Audio devices are not allowed.
+[2024-05-31T09:37:51.473Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:37:51.495Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:37:51.496Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:37:51.496Z] Audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:37:51.496Z] Audio devices are not allowed.
+[2024-05-31T09:38:21.823Z] USB detection initialized.
+[2024-05-31T09:38:22.820Z] Student joined in with {"studentID":"uoqsu2cfm","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T09:38:34.725Z] USB detection initialized.
+[2024-05-31T09:38:35.414Z] Student joined in with {"studentID":"818h9tzv0","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T09:38:58.532Z] USB detection initialized.
+[2024-05-31T09:38:59.352Z] Student joined in with {"studentID":"bzzojjtmv","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T09:39:08.533Z] External USB devices are not allowed.
+[2024-05-31T09:39:10.431Z] Error detecting USB devices: ReferenceError: app is not defined
+[2024-05-31T09:49:23.146Z] Bluetooth devices detected: Ashish’s iPad, DESKTOP-AQQJBD0, DIZO Buds Z, Keyboard K380, OnePlus Bullets Wireless Z2, Rockerz 450
+[2024-05-31T09:49:23.148Z] Bluetooth devices are not allowed.
+[2024-05-31T09:49:24.549Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:49:24.616Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:49:24.617Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:49:24.617Z] Audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:49:24.617Z] Audio devices are not allowed.
+[2024-05-31T09:49:27.629Z] Bluetooth devices detected: Ashish’s iPad, DESKTOP-AQQJBD0, DIZO Buds Z, Keyboard K380, OnePlus Bullets Wireless Z2, Rockerz 450
+[2024-05-31T09:49:27.629Z] Bluetooth devices are not allowed.
+[2024-05-31T09:49:28.730Z] Error fetching processes: Error: Command failed: ps aux
+
+[2024-05-31T09:49:28.730Z] Error fetching processes: Error: Command failed: ps aux
+
+[2024-05-31T09:51:39.060Z] USB detection initialized.
+[2024-05-31T09:51:39.710Z] Student joined in with {"studentID":"ijfhmjvxe","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T09:51:44.067Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:51:44.074Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:51:44.076Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:51:44.203Z] Bluetooth devices detected: Ashish’s iPad, DESKTOP-AQQJBD0, DIZO Buds Z, Keyboard K380, OnePlus Bullets Wireless Z2, Rockerz 450
+[2024-05-31T09:51:44.203Z] Bluetooth devices are not allowed.
+[2024-05-31T09:51:49.342Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:51:49.361Z] External USB devices are not allowed.
+[2024-05-31T09:51:52.284Z] External audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:51:52.284Z] External audio devices are not allowed.
+[2024-05-31T09:51:56.158Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:51:56.171Z] External audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:51:56.171Z] External audio devices are not allowed.
+[2024-05-31T09:52:15.083Z] Bluetooth devices detected: Ashish’s iPad, DESKTOP-AQQJBD0, DIZO Buds Z, Keyboard K380, OnePlus Bullets Wireless Z2, Rockerz 450
+[2024-05-31T09:52:15.085Z] Bluetooth devices are not allowed.
+[2024-05-31T09:52:20.998Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:52:21.000Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:52:21.004Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:52:21.038Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:52:21.039Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:52:21.045Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:52:21.046Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:52:21.046Z] External audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:52:21.046Z] External audio devices are not allowed.
+[2024-05-31T09:52:24.393Z] Bluetooth devices detected: Ashish’s iPad, DESKTOP-AQQJBD0, DIZO Buds Z, Keyboard K380, OnePlus Bullets Wireless Z2, Rockerz 450
+[2024-05-31T09:52:24.393Z] Bluetooth devices are not allowed.
+[2024-05-31T09:52:27.287Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:52:27.333Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:52:27.333Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:52:27.333Z] External audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:52:27.333Z] External audio devices are not allowed.
+[2024-05-31T09:55:41.844Z] USB detection initialized.
+[2024-05-31T09:55:42.475Z] Student joined in with {"studentID":"pcmi6kybw","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T09:55:46.852Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:55:46.860Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:55:46.863Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T09:55:46.864Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:55:47.045Z] External audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:55:47.045Z] External audio devices are not allowed.
+[2024-05-31T09:55:51.852Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:55:51.858Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T09:55:51.858Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:55:51.859Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:55:52.046Z] External audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:55:52.046Z] External audio devices are not allowed.
+[2024-05-31T09:59:38.831Z] USB detection initialized.
+[2024-05-31T09:59:39.441Z] Student joined in with {"studentID":"vp2mhnb0c","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T09:59:43.837Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:59:43.844Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:59:43.845Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T09:59:43.846Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:59:44.002Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:59:44.002Z] External audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:59:44.002Z] External audio devices are not allowed.
+[2024-05-31T09:59:50.362Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:59:50.380Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:59:50.380Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T09:59:50.380Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T09:59:50.546Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:59:50.547Z] External audio devices detected: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T09:59:50.547Z] External audio devices are not allowed.
+[2024-05-31T09:59:56.283Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T09:59:56.321Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T09:59:56.321Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T09:59:56.321Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:04:14.361Z] USB detection initialized.
+[2024-05-31T10:04:14.962Z] Student joined in with {"studentID":"nv7a8ceo7","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T10:04:19.369Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:04:19.376Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:04:19.379Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:04:19.380Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T10:04:19.620Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:04:24.371Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:04:24.378Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:04:24.379Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:04:24.380Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T10:04:24.587Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:04:29.377Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:04:29.381Z] External USB devices are not allowed.
+[2024-05-31T10:04:36.404Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:04:36.426Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T10:04:36.427Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:04:36.427Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:04:36.427Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:04:36.427Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:04:36.427Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:04:36.427Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T10:04:36.649Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:04:41.409Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:04:41.416Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:04:41.418Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:04:41.419Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T10:04:41.618Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:04:43.006Z] Switching applications is disabled.
+[2024-05-31T10:04:46.420Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:04:47.562Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T10:04:47.562Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:04:47.562Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:04:47.669Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:04:51.420Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:04:51.423Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:04:51.423Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:04:51.425Z] exec error: Error: Command failed: tasklist
+/bin/sh: tasklist: command not found
+
+[2024-05-31T10:04:51.585Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:09:57.285Z] USB detection initialized.
+[2024-05-31T10:09:57.845Z] Student joined in with {"studentID":"qfpm2xsz3","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T10:10:00.606Z] Switching applications is disabled.
+[2024-05-31T10:10:02.484Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:10:02.487Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:10:02.490Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:10:02.707Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:10:31.518Z] USB detection initialized.
+[2024-05-31T10:10:32.182Z] Student joined in with {"studentID":"2a5g7m9su","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T10:10:36.522Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:10:36.531Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:10:36.531Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:10:36.795Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:10:39.418Z] Switching applications is disabled.
+[2024-05-31T10:10:41.525Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:10:41.532Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:10:41.532Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:10:41.649Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:10:42.081Z] Switching applications is disabled.
+[2024-05-31T10:10:46.530Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:10:46.535Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:10:46.537Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:10:46.670Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:12:32.547Z] USB detection initialized.
+[2024-05-31T10:12:33.154Z] Student joined in with {"studentID":"kwh8dmxo1","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T10:12:37.555Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:12:37.563Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:12:37.565Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:12:37.774Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:12:42.553Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:12:42.559Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:12:42.561Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:12:42.781Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:12:43.569Z] Switching applications is disabled.
+[2024-05-31T10:12:47.900Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:12:47.904Z] Switching applications is disabled.
+[2024-05-31T10:12:49.858Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:12:49.860Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:12:49.860Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:12:52.219Z] Switching applications is disabled.
+[2024-05-31T10:13:01.199Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:13:01.211Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:13:01.212Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:13:01.370Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:13:07.023Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:13:07.056Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:13:07.056Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:18:24.010Z] USB detection initialized.
+[2024-05-31T10:18:24.600Z] Student joined in with {"studentID":"kt7i8cl32","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T10:18:28.260Z] Switching applications is disabled.
+[2024-05-31T10:18:30.575Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:18:30.589Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:18:30.590Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:18:30.859Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:18:31.865Z] Switching applications is disabled.
+[2024-05-31T10:18:35.371Z] Switching applications is disabled.
+[2024-05-31T10:19:45.447Z] Copy action is disabled.
+[2024-05-31T10:19:48.848Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:19:48.853Z] Switching applications is disabled.
+[2024-05-31T10:19:50.389Z] Switching applications is disabled.
+[2024-05-31T10:19:51.501Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:19:51.501Z] exec error: Error: Command failed: powershell "Get-PnpDevice -Class Bluetooth -Status OK"
+/bin/sh: powershell: command not found
+
+[2024-05-31T10:19:51.501Z] exec error: Error: Command failed: wmic path win32_videocontroller get caption, deviceid, adaptercompatibility
+/bin/sh: wmic: command not found
+
+[2024-05-31T10:22:07.989Z] USB detection initialized.
+[2024-05-31T10:22:08.622Z] Student joined in with {"studentID":"6cpitd9r5","ip":"106.221.75.116","city":"Ahmedabad","region":"Gujarat","country":"IN","location":"23.0258,72.5873","postal":"380001"}
+[2024-05-31T10:22:12.996Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:22:13.194Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:22:13.315Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T10:22:13.315Z] Display detected: s:
+        Color LCD:
+[2024-05-31T10:22:13.315Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T10:22:13.315Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T10:22:17.995Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:22:18.159Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:22:18.216Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T10:22:18.216Z] Display detected: s:
+        Color LCD:
+[2024-05-31T10:22:18.217Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T10:22:18.217Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T10:22:23.003Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:22:23.159Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:22:23.228Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T10:22:23.228Z] Display detected: s:
+        Color LCD:
+[2024-05-31T10:22:23.228Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T10:22:23.228Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T10:22:28.003Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:22:28.155Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:22:28.235Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T10:22:28.235Z] Display detected: s:
+        Color LCD:
+[2024-05-31T10:22:28.236Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T10:22:28.236Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T10:22:29.513Z] Switching applications is disabled.
+[2024-05-31T10:22:33.003Z] Network interface detected: en0 - 192.168.52.166
+[2024-05-31T10:22:33.129Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T10:22:34.726Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T10:22:34.726Z] Display detected: s:
+        Color LCD:
+[2024-05-31T10:22:34.726Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T10:22:34.726Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:00:59.678Z] USB detection initialized.
+[2024-05-31T11:01:00.118Z] Student joined in with {"studentID":"qwivq2i40","ip":"14.139.106.66","city":"Mumbai","region":"Maharashtra","country":"IN","location":"18.9750,72.8258","postal":"400002"}
+[2024-05-31T11:01:04.684Z] Network interface detected: en0 - 192.168.137.209
+[2024-05-31T11:01:04.688Z] External USB devices are not allowed.
+[2024-05-31T11:01:07.381Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:01:07.381Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:01:07.381Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:01:07.381Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:01:07.382Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:01:08.964Z] WhatsApp terminated successfully.
+[2024-05-31T11:01:09.685Z] Network interface detected: en0 - 192.168.137.209
+[2024-05-31T11:01:09.687Z] External USB devices are not allowed.
+[2024-05-31T11:01:13.485Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:01:13.485Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:01:13.485Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:01:13.485Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:01:13.485Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:01:15.337Z] Network interface detected: en0 - 192.168.137.209
+[2024-05-31T11:01:15.342Z] External USB devices are not allowed.
+[2024-05-31T11:01:16.999Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:01:16.999Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:01:16.999Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:01:16.999Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:01:16.999Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:01:18.354Z] WhatsApp terminated successfully.
+[2024-05-31T11:01:18.365Z] WhatsApp terminated successfully.
+[2024-05-31T11:01:20.341Z] Network interface detected: en0 - 192.168.137.209
+[2024-05-31T11:01:20.342Z] External USB devices are not allowed.
+[2024-05-31T11:01:21.711Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:01:21.711Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:01:21.711Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:01:21.711Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:01:21.711Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:01:23.321Z] WhatsApp terminated successfully.
+[2024-05-31T11:03:13.597Z] USB detection initialized.
+[2024-05-31T11:03:14.063Z] Student joined in with {"studentID":"5rwgwxno7","ip":"14.139.106.66","city":"Mumbai","region":"Maharashtra","country":"IN","location":"18.9750,72.8258","postal":"400002"}
+[2024-05-31T11:03:18.603Z] Network interface detected: en0 - 192.168.137.209
+[2024-05-31T11:03:18.607Z] External USB devices are not allowed.
+[2024-05-31T11:03:25.874Z] Network interface detected: en0 - 192.168.137.209
+[2024-05-31T11:03:25.893Z] External USB devices are not allowed.
+[2024-05-31T11:03:27.211Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:03:27.211Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:03:27.211Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:03:27.211Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:03:27.211Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:03:27.971Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:03:27.971Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:03:27.971Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:03:27.971Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:03:27.971Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:03:29.232Z] WhatsApp terminated successfully.
+[2024-05-31T11:03:29.244Z] WhatsApp terminated successfully.
+[2024-05-31T11:03:30.882Z] Network interface detected: en0 - 192.168.137.209
+[2024-05-31T11:03:30.886Z] External USB devices are not allowed.
+[2024-05-31T11:03:32.892Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:03:32.893Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:03:32.893Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:03:32.893Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:03:32.893Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:05:26.666Z] Student joined in with {"studentID":"1bqpgqkp7","ip":"14.139.106.66","city":"Mumbai","region":"Maharashtra","country":"IN","location":"18.9750,72.8258","postal":"400002"}
+[2024-05-31T11:05:31.198Z] Network interface detected: en0 - 192.168.137.209
+[2024-05-31T11:05:31.203Z] External USB devices are not allowed.
+[2024-05-31T11:05:37.692Z] Network interface detected: en0 - 192.168.137.209
+[2024-05-31T11:05:37.712Z] External USB devices are not allowed.
+[2024-05-31T11:05:39.142Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:05:39.142Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:05:39.142Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:05:39.142Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:05:39.142Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:05:40.389Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:05:40.389Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:05:40.389Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:05:40.389Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:05:40.389Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:05:40.938Z] WhatsApp terminated successfully.
+[2024-05-31T11:05:40.947Z] WhatsApp terminated successfully.
+[2024-05-31T11:05:42.278Z] Switching applications is disabled.
+[2024-05-31T11:07:06.844Z] USB detection initialized.
+[2024-05-31T11:07:11.960Z] Network interface detected: en0 - 169.254.20.242
+[2024-05-31T11:07:11.961Z] External USB devices are not allowed.
+[2024-05-31T11:07:14.587Z] WhatsApp terminated successfully.
+[2024-05-31T11:07:14.598Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:07:14.598Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:07:14.598Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:07:14.598Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:07:14.598Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:07:16.922Z] WhatsApp terminated successfully.
+[2024-05-31T11:07:16.965Z] Network interface detected: en0 - 169.254.20.242
+[2024-05-31T11:07:16.967Z] External USB devices are not allowed.
+[2024-05-31T11:07:18.311Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:07:18.311Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:07:18.311Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:07:18.311Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:07:18.311Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:08:04.957Z] USB detection initialized.
+[2024-05-31T11:08:05.332Z] Switching applications is disabled.
+[2024-05-31T11:08:09.437Z] Right-click is disabled.
+[2024-05-31T11:08:10.917Z] Network interface detected: en0 - 169.254.20.242
+[2024-05-31T11:08:10.929Z] External USB devices are not allowed.
+[2024-05-31T11:08:12.377Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:08:12.377Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:08:12.377Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:08:12.377Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:08:12.377Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:08:12.443Z] WhatsApp terminated successfully.
+[2024-05-31T11:08:15.921Z] Network interface detected: en0 - 169.254.20.242
+[2024-05-31T11:08:15.926Z] External USB devices are not allowed.
+[2024-05-31T11:08:17.136Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-05-31T11:08:17.136Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-05-31T11:08:17.136Z] Display detected: s:
+        Color LCD:
+[2024-05-31T11:08:17.136Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-05-31T11:08:17.136Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-05-31T11:08:17.230Z] WhatsApp terminated successfully.
+[2024-06-01T06:28:13.477Z] USB detection initialized.
+[2024-06-01T06:28:15.008Z] Error in network integrity check or data storage:
+[2024-06-01T06:28:18.593Z] WhatsApp terminated successfully.
+[2024-06-01T06:28:18.640Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:28:18.656Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:28:18.738Z] No virtual machine detected.
+[2024-06-01T06:28:18.876Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:28:18.970Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:28:18.970Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:28:18.970Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:28:18.970Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:28:20.359Z] Right-click is disabled.
+[2024-06-01T06:28:23.645Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:28:23.656Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:28:23.758Z] No virtual machine detected.
+[2024-06-01T06:28:23.854Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:28:23.869Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:28:23.869Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:28:23.869Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:28:23.869Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:28:28.646Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:28:28.657Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:28:28.759Z] No virtual machine detected.
+[2024-06-01T06:28:28.784Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:28:28.871Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:28:28.871Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:28:28.871Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:28:28.871Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:28:33.651Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:28:33.659Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:28:33.766Z] No virtual machine detected.
+[2024-06-01T06:28:33.812Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:28:33.878Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:28:33.878Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:28:33.878Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:28:33.878Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:28:38.656Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:28:38.666Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:28:38.752Z] No virtual machine detected.
+[2024-06-01T06:28:38.854Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:28:38.869Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:28:38.869Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:28:38.869Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:28:38.869Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:28:43.660Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:28:43.668Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:28:43.745Z] No virtual machine detected.
+[2024-06-01T06:28:43.794Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:28:43.864Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:28:43.864Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:28:43.864Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:28:43.864Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:28:48.665Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:28:48.673Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:28:48.760Z] No virtual machine detected.
+[2024-06-01T06:28:48.853Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:28:48.863Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:28:48.863Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:28:48.863Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:28:48.863Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:28:53.670Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:28:53.676Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:28:53.796Z] No virtual machine detected.
+[2024-06-01T06:28:53.816Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:28:53.897Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:28:53.897Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:28:53.897Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:28:53.897Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:28:58.673Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:28:58.681Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:28:58.764Z] No virtual machine detected.
+[2024-06-01T06:28:58.854Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:28:58.866Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:28:58.866Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:28:58.866Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:28:58.866Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:03.678Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:03.683Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:03.770Z] No virtual machine detected.
+[2024-06-01T06:29:03.802Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:03.950Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:03.950Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:03.950Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:03.950Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:08.677Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:08.692Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:08.795Z] No virtual machine detected.
+[2024-06-01T06:29:08.819Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:08.979Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:08.979Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:08.979Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:08.979Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:13.681Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:13.689Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:13.774Z] No virtual machine detected.
+[2024-06-01T06:29:13.795Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:13.925Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:13.925Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:13.925Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:13.925Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:18.686Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:18.693Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:18.777Z] No virtual machine detected.
+[2024-06-01T06:29:18.868Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:18.946Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:18.946Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:18.946Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:18.946Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:23.691Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:23.699Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:23.784Z] No virtual machine detected.
+[2024-06-01T06:29:23.874Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:23.885Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:23.885Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:23.885Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:23.885Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:28.696Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:28.705Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:28.811Z] No virtual machine detected.
+[2024-06-01T06:29:28.918Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:28.965Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:28.965Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:28.965Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:28.965Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:33.699Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:33.707Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:33.807Z] No virtual machine detected.
+[2024-06-01T06:29:33.884Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:33.972Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:33.972Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:33.972Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:33.972Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:38.700Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:38.710Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:38.830Z] No virtual machine detected.
+[2024-06-01T06:29:38.852Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:38.991Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:38.991Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:38.991Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:38.991Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:43.704Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:43.713Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:43.826Z] No virtual machine detected.
+[2024-06-01T06:29:43.851Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:43.911Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:43.911Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:43.911Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:43.911Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:48.709Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:48.717Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:48.826Z] No virtual machine detected.
+[2024-06-01T06:29:48.847Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:48.915Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:48.915Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:48.915Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:48.915Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:53.714Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:53.724Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:53.831Z] No virtual machine detected.
+[2024-06-01T06:29:53.914Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:53.914Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:29:53.914Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:53.914Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:53.917Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:58.719Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:29:58.727Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:29:58.821Z] No virtual machine detected.
+[2024-06-01T06:29:58.905Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:29:58.923Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:29:58.923Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:29:58.923Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:29:58.923Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:03.724Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:03.733Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:03.820Z] No virtual machine detected.
+[2024-06-01T06:30:03.908Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:03.958Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:03.958Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:03.958Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:03.958Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:08.728Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:08.736Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:08.816Z] No virtual machine detected.
+[2024-06-01T06:30:08.847Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:08.927Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:08.927Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:08.927Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:08.927Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:13.733Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:13.744Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:13.827Z] No virtual machine detected.
+[2024-06-01T06:30:13.860Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:13.937Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:13.937Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:13.937Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:13.937Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:18.737Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:18.746Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:18.834Z] No virtual machine detected.
+[2024-06-01T06:30:18.913Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:18.935Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:18.935Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:18.935Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:18.935Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:23.742Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:23.751Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:23.841Z] No virtual machine detected.
+[2024-06-01T06:30:23.867Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:23.950Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:23.950Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:23.950Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:23.950Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:28.747Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:28.757Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:28.850Z] No virtual machine detected.
+[2024-06-01T06:30:28.943Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:28.945Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:28.945Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:28.945Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:28.945Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:33.752Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:33.762Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:33.847Z] No virtual machine detected.
+[2024-06-01T06:30:33.879Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:33.962Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:33.962Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:33.962Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:33.962Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:38.757Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:38.766Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:38.862Z] No virtual machine detected.
+[2024-06-01T06:30:38.885Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:39.014Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:39.014Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:39.014Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:39.014Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:43.762Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:43.772Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:43.859Z] No virtual machine detected.
+[2024-06-01T06:30:43.954Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:43.968Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:43.968Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:43.968Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:43.968Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:48.767Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:48.777Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:48.862Z] No virtual machine detected.
+[2024-06-01T06:30:48.949Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:48.959Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:48.959Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:48.959Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:48.959Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:53.769Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:53.778Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:53.864Z] No virtual machine detected.
+[2024-06-01T06:30:53.884Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:53.952Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:53.952Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:53.952Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:53.952Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:30:58.774Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:30:58.783Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:30:58.874Z] No virtual machine detected.
+[2024-06-01T06:30:58.899Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:30:58.983Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:30:58.983Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:30:58.983Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:30:58.983Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:03.778Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:03.788Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:03.875Z] No virtual machine detected.
+[2024-06-01T06:31:03.967Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:03.990Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:03.990Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:03.990Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:03.990Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:08.783Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:08.792Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:08.880Z] No virtual machine detected.
+[2024-06-01T06:31:08.909Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:08.992Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:08.992Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:08.992Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:08.992Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:13.787Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:13.796Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:13.907Z] No virtual machine detected.
+[2024-06-01T06:31:13.933Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:14.003Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:14.003Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:14.003Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:14.003Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:18.793Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:18.800Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:18.883Z] No virtual machine detected.
+[2024-06-01T06:31:18.919Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:18.999Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:18.999Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:18.999Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:18.999Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:23.797Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:23.808Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:23.892Z] No virtual machine detected.
+[2024-06-01T06:31:23.925Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:24.006Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:24.006Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:24.006Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:24.006Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:28.802Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:28.811Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:28.903Z] No virtual machine detected.
+[2024-06-01T06:31:28.929Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:28.999Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:28.999Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:28.999Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:28.999Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:33.807Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:33.815Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:33.898Z] No virtual machine detected.
+[2024-06-01T06:31:33.931Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:34.014Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:34.014Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:34.014Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:34.014Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:38.812Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:38.823Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:38.919Z] No virtual machine detected.
+[2024-06-01T06:31:38.952Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:39.023Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:39.023Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:39.023Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:39.023Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:43.817Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:43.827Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:43.913Z] No virtual machine detected.
+[2024-06-01T06:31:44.012Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:44.012Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:44.012Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:44.012Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:44.013Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:48.822Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:48.834Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:48.946Z] No virtual machine detected.
+[2024-06-01T06:31:49.028Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:49.110Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:49.110Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:49.110Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:49.110Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:53.827Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:53.837Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:53.927Z] No virtual machine detected.
+[2024-06-01T06:31:54.014Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:54.043Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:54.043Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:54.043Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:31:54.043Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:58.832Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:31:58.843Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:31:58.936Z] No virtual machine detected.
+[2024-06-01T06:31:58.962Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:31:59.046Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:31:59.046Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:31:59.046Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:31:59.046Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:03.836Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:03.846Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:03.944Z] No virtual machine detected.
+[2024-06-01T06:32:03.974Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:04.033Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:04.033Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:04.033Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:04.033Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:08.841Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:08.851Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:08.943Z] No virtual machine detected.
+[2024-06-01T06:32:08.970Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:09.049Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:09.049Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:09.049Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:09.049Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:13.847Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:13.857Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:13.950Z] No virtual machine detected.
+[2024-06-01T06:32:13.978Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:14.118Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:14.119Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:14.118Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:14.119Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:18.848Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:18.857Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:18.951Z] No virtual machine detected.
+[2024-06-01T06:32:19.048Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:19.048Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:19.048Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:19.048Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:19.051Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:23.853Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:23.865Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:23.957Z] No virtual machine detected.
+[2024-06-01T06:32:23.997Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:24.125Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:24.125Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:24.125Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:24.125Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:28.859Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:28.870Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:28.966Z] No virtual machine detected.
+[2024-06-01T06:32:28.989Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:29.060Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:29.060Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:29.060Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:29.060Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:33.863Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:33.873Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:33.961Z] No virtual machine detected.
+[2024-06-01T06:32:34.059Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:34.132Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:34.132Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:34.132Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:34.132Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:38.868Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:38.879Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:38.967Z] No virtual machine detected.
+[2024-06-01T06:32:39.062Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:39.075Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:39.075Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:39.075Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:39.075Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:43.873Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:43.882Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:43.975Z] No virtual machine detected.
+[2024-06-01T06:32:44.010Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:44.072Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:44.072Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:44.072Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:44.072Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:48.878Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:48.889Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:48.982Z] No virtual machine detected.
+[2024-06-01T06:32:49.073Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:49.073Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:49.073Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:49.073Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:49.076Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:53.883Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:53.895Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:53.983Z] No virtual machine detected.
+[2024-06-01T06:32:54.074Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:54.094Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:32:54.094Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:54.094Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:54.094Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:58.888Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:32:58.896Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:32:58.995Z] No virtual machine detected.
+[2024-06-01T06:32:59.018Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:32:59.193Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:32:59.193Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:32:59.193Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:32:59.193Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:03.892Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:03.901Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:03.984Z] No virtual machine detected.
+[2024-06-01T06:33:04.020Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:04.156Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:04.156Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:04.156Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:04.156Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:08.897Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:08.904Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:08.992Z] No virtual machine detected.
+[2024-06-01T06:33:09.080Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:09.170Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:09.170Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:09.170Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:09.170Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:13.901Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:13.910Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:13.994Z] No virtual machine detected.
+[2024-06-01T06:33:14.087Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:14.179Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:14.179Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:14.179Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:14.179Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:18.904Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:18.912Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:18.993Z] No virtual machine detected.
+[2024-06-01T06:33:19.033Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:19.105Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:19.105Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:19.105Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:19.105Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:23.910Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:23.920Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:24.010Z] No virtual machine detected.
+[2024-06-01T06:33:24.037Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:24.129Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:24.129Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:24.129Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:24.129Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:28.915Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:28.925Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:29.023Z] No virtual machine detected.
+[2024-06-01T06:33:29.059Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:29.127Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:29.127Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:29.127Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:29.127Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:33.919Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:33.928Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:34.044Z] No virtual machine detected.
+[2024-06-01T06:33:34.143Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:34.215Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:34.215Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:34.215Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:34.215Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:38.924Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:38.935Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:39.034Z] No virtual machine detected.
+[2024-06-01T06:33:39.113Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:39.135Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:39.135Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:39.135Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:39.135Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:43.928Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:43.937Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:44.030Z] No virtual machine detected.
+[2024-06-01T06:33:44.058Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:44.139Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:44.139Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:44.139Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:44.139Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:48.932Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:48.942Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:49.039Z] No virtual machine detected.
+[2024-06-01T06:33:49.059Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:49.143Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:49.143Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:49.143Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:49.143Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:53.938Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:53.947Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:54.031Z] No virtual machine detected.
+[2024-06-01T06:33:54.123Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:54.146Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:54.146Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:54.146Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:54.146Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:33:58.942Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:33:58.952Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:33:59.033Z] No virtual machine detected.
+[2024-06-01T06:33:59.069Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:33:59.139Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:33:59.139Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:33:59.139Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:33:59.139Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:34:03.947Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:34:03.956Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:34:04.042Z] No virtual machine detected.
+[2024-06-01T06:34:04.137Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:34:04.149Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:34:04.149Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:34:04.149Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:34:04.149Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:34:08.952Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:34:08.960Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:34:09.045Z] No virtual machine detected.
+[2024-06-01T06:34:09.139Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:34:09.156Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:34:09.156Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:34:09.156Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:34:09.156Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:34:13.956Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:34:13.964Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:34:14.053Z] No virtual machine detected.
+[2024-06-01T06:34:14.092Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:34:14.164Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:34:14.164Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:34:14.164Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:34:14.164Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:34:18.961Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:34:18.970Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:34:19.053Z] No virtual machine detected.
+[2024-06-01T06:34:19.071Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:34:19.237Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:34:19.237Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:34:19.237Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:34:19.237Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:34:23.967Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:34:23.976Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:34:24.055Z] No virtual machine detected.
+[2024-06-01T06:34:24.093Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:34:24.174Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:34:24.174Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:34:24.174Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main
+[2024-06-01T06:34:24.174Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:34:28.972Z] Network interface detected: en0 - 192.168.86.166
+[2024-06-01T06:34:28.979Z] No virtual machine detected based on hardware inspection.
+[2024-06-01T06:34:29.066Z] No virtual machine detected.
+[2024-06-01T06:34:29.096Z] All audio devices: MacBook Air Microphone, MacBook Air Speakers
+[2024-06-01T06:34:29.172Z] Display detected: s:
+        Color LCD:
+[2024-06-01T06:34:29.172Z] Display detected: : Yes
+          Mirror: Off
+          Online: Yes
+          Automatically Adjust Brightness: Yes
+          Connection Type: Internal
+[2024-06-01T06:34:29.172Z] Display detected: s:
+
+    Apple M1:
+
+      Chipset Model: Apple M1
+      Type: GPU
+      Bus: Built-In
+      Total Number of Cores: 7
+      Vendor: Apple (0x106b)
+      Metal Support: Metal 3
+[2024-06-01T06:34:29.172Z] Display detected: Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Main

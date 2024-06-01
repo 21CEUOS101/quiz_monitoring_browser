@@ -2,7 +2,7 @@ const { app, globalShortcut, desktopCapturer, session } = require('electron');
 const { createWindow } = require('./window');
 const { startKeyboardMonitoring } = require('./keyboard-monitor');
 const { checkAndTerminateApps } = require('./app-terminator');
-const { initializeUsbMonitoring } = require('./usb-monitor');
+const { initializeMonitoring } = require('./monitor');
 const { showWarning } = require('./utils');
 const { fetchAndStoreIP } = require('./ipConfig');
 const { BrowserWindow, dialog } = require('electron');
@@ -35,7 +35,7 @@ app.on('ready', () => {
 
     startKeyboardMonitoring();
     setInterval(checkAndTerminateApps, 5000);
-    initializeUsbMonitoring();
+    initializeMonitoring();
 });
 
 app.whenReady().then(() => {
